@@ -1,0 +1,49 @@
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#00ff00"
+    android:layout_weight="1">
+    
+<TextView
+    android:text="TEENAGE MUTANT NINJA TURTLES"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:textSize="24sp" 
+    android:background="#ffff00"
+    android:gravity="center"/>
+
+<TextView
+    android:text="Michelangelo"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:textSize="24sp" 
+    android:background="#FFA500"
+    android:gravity="center"/>
+
+<TextView
+    android:text="Raffaello"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:textSize="24sp"
+    android:background="#ff0000"
+    android:gravity="center"/>
+
+<TextView
+    android:text="Donatello"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:textSize="24sp"
+    android:background="#551a8b"
+    android:gravity="center"/>
+
+<TextView
+    android:text="Leonardo"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:textSize="24sp"
+    android:background="#0000ff"
+    android:gravity="center"/>
+
+</LinearLayout>
